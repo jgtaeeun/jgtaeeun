@@ -80,39 +80,15 @@
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">화면 구성(XML)은 프래그먼트, 리스트뷰 등을 사용해서 만들었고,<br><br>
         기능(Java)은 구글지도 API, 마커, 인텐트, SQLite DB, 파일 저장 등을 이용해 구현
             </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">이미지넣기</td>
         </tr>
         <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.</td>
-            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">객체지향 개념 (클래스, 객체, 상속, 다형성 등) 학습<br>[교재: 파이썬 Express (천인국 지음, 생능출판)]
+            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.공공데이터포털의 병원정보 API와 CSV 파일을 활용하여 요양병원 정보를 정제하고, MySQL과 연동해 백엔드 DB를 구축<br><br>2. Spring Boot 기반 REST API와 React 프론트를 연동해 병원검색, 로그인/회원가입, 찜하기 등 핵심 기능 구현.
             </td>
-             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-PC 카메라 영상의 배경을 임의의 다른 배경으로 교체<br>-Implementing one of face recognition algorithms</td>
-        </tr>
-        <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>(1)</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Android Studio를 이용한 모바일 앱 개발 경험<br>AI 개론 공부</td>
-             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">안드로이드 앱 개발 (Java)<br>Convolutional Neural Networks (CNN)<br>[교재: 그림으로 쉽게 설명하는 안드로이드 프로그래밍(개정6판), 기계 학습 / 오일석 / 한빛아카데미]
-                <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-전통시장 홍보 및 이용자 증가 위한 시스템 구현- 전통시장 지도 앱</td>
-                 
-
+             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">![image](https://github.com/user-attachments/assets/c9ea6b2c-7e88-4b52-a9c6-4d92ac70ee12)
 </td>
-        </tr>
-        <tr>
-          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>(2)</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상정보처리</td>
-            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상 처리 알고리즘<br>[교재: OpenCV-Python으로 배우는 영상 처리 및 응용]</td>
-        </tr>
-        <tr>
-          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2024</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정</td>
-        <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">프론트엔드(HTML, Tailwind CSS, React)<br>백엔드(JSP, Spring Boot, Java)<br>데이터분석(Python 데이터 처리분석 ,DB SQL, 머신러닝, 텐서플로)</td>
-         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-요양병원 정보안내 웹서비스<br>-차량객체 추출 기반 차량번호판 추출 및 예측 서비스</td>
-        </tr>
-        <tr>
-          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
-           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter), 언어(C, C++,C#) </td>
-         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트</td>
         </tr>
       </tbody>
     </table>
