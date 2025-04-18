@@ -61,7 +61,63 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ My Coding Projects </h2>
-    
+     <div style="font-weight: 700; font-size: 15px; color: #282d33; max-width: 800px; margin: 0 auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+      <thead>
+        <tr style="background-color: #f4f4f4;">
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">프로젝트명</th>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">동기 및 목적</th>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">수행 방향 및 방법</th>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">시연</th>
+        </tr>
+      </thead>
+        <tbody>
+         <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">전통시장 홍보 및 이용자 증가 위한 시스템 구현- 전통시장 지도 앱</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> 1.전통시장의 낮은 인지도와 제한적인 연령층 이용 문제를 해결하기 위해 지도 기반의 안내 시스템 필요성 제기<br><br>2.
+            기존 플랫폼(배달의민족, 네이버/구글 지도) 분석을 통해 정보 부족 및 거리뷰 미지원 지역 등 문제점을 도출<br><br>3.
+            숨겨진 가게와 리뉴얼 대상 정보를 수집해 지도에 구역별로 시각화, 첫 방문자도 쉽게 이용 가능한 안내 서비스 구현.</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">화면 구성(XML)은 프래그먼트, 리스트뷰 등을 사용해서 만들었고,<br><br>
+        기능(Java)은 구글지도 API, 마커, 인텐트, SQLite DB, 파일 저장 등을 이용해 구현
+            </td>
+        </tr>
+        <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Python 중심으로 객체지향 프로그래밍 학습</td>
+            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">객체지향 개념 (클래스, 객체, 상속, 다형성 등) 학습<br>[교재: 파이썬 Express (천인국 지음, 생능출판)]
+            </td>
+             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-PC 카메라 영상의 배경을 임의의 다른 배경으로 교체<br>-Implementing one of face recognition algorithms</td>
+        </tr>
+        <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>(1)</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Android Studio를 이용한 모바일 앱 개발 경험<br>AI 개론 공부</td>
+             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">안드로이드 앱 개발 (Java)<br>Convolutional Neural Networks (CNN)<br>[교재: 그림으로 쉽게 설명하는 안드로이드 프로그래밍(개정6판), 기계 학습 / 오일석 / 한빛아카데미]
+                <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-전통시장 홍보 및 이용자 증가 위한 시스템 구현- 전통시장 지도 앱</td>
+                 
+
+</td>
+        </tr>
+        <tr>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>(2)</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상정보처리</td>
+            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상 처리 알고리즘<br>[교재: OpenCV-Python으로 배우는 영상 처리 및 응용]</td>
+        </tr>
+        <tr>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2024</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정</td>
+        <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">프론트엔드(HTML, Tailwind CSS, React)<br>백엔드(JSP, Spring Boot, Java)<br>데이터분석(Python 데이터 처리분석 ,DB SQL, 머신러닝, 텐서플로)</td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-요양병원 정보안내 웹서비스<br>-차량객체 추출 기반 차량번호판 추출 및 예측 서비스</td>
+        </tr>
+        <tr>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
+           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter), 언어(C, C++,C#) </td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
   </div>  
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
