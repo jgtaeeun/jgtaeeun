@@ -1,8 +1,9 @@
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=jgtaeeun's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=jgtaeeun's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
-    <div align= "center"> 
+
+<div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  My Coding Journey </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 2019년 C언어로 프로그래밍을 처음 접한 이후, 다양한 언어와 기술 스택을 경험하며 개발자로 성장해왔습니다.</li></li>대학교에서는</li></li>Python을 중심으로 객체지향 프로그래밍을 학습했고</li></li>Android Studio를 활용한 모바일 앱 개발 경험이 있습니다.</li></li>영상처리 기법과 AI 개론 수업을 통해 CNN 기반의 딥러닝 모델도 공부했습니다.</li></li> 2024년에는</li></li>부산대학교 빅데이터 개발자 과정에서</li></li>프론트엔드 (HTML, Tailwind CSS, Node.js)</li></li>백엔드 (Spring Boot, JSP, Java)</li></li>데이터 분석 (Python 시각화, RCNN, 영화 리뷰 감성 분석 등)</li>을 학습하며 풀스택 개발 경험을 쌓았습니다.</li></li> 2025년 현재</li></li>Python, C, C#, C++ 언어를 학습 중이며</li></li>Unreal Engine과 C++로 FPS 게임 프로젝트를 진행하고 있습니다. </div> 
     </div>
@@ -42,7 +43,10 @@
            /> </div> 
     </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Thanks%20for%20visiting!&animation=twinkling&fontColor=ffffff&fontSize=70)
+
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Thanks%20for%20visiting!&animation=twinkling&fontColor=ffffff&fontSize=70" />
+    </div>
 
  
 <!--
