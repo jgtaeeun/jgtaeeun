@@ -2,11 +2,45 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=jgtaeeun's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
-
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  My Coding Journey </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 2019년 C언어로 프로그래밍을 처음 접한 이후, 다양한 언어와 기술 스택을 경험하며 개발자로 성장해왔습니다.</li></li>대학교에서는</li></li>Python을 중심으로 객체지향 프로그래밍을 학습했고</li></li>Android Studio를 활용한 모바일 앱 개발 경험이 있습니다.</li></li>영상처리 기법과 AI 개론 수업을 통해 CNN 기반의 딥러닝 모델도 공부했습니다.</li></li> 2024년에는</li></li>부산대학교 빅데이터 개발자 과정에서</li></li>프론트엔드 (HTML, Tailwind CSS, Node.js)</li></li>백엔드 (Spring Boot, JSP, Java)</li></li>데이터 분석 (Python 시각화, RCNN, 영화 리뷰 감성 분석 등)</li>을 학습하며 풀스택 개발 경험을 쌓았습니다.</li></li> 2025년 현재</li></li>Python, C, C#, C++ 언어를 학습 중이며</li></li>Unreal Engine과 C++로 FPS 게임 프로젝트를 진행하고 있습니다. </div> 
-    </div>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ My Coding Journey </h2>
+  <div style="font-weight: 700; font-size: 15px; color: #282d33; max-width: 800px; margin: 0 auto;">
+    <table style="width: 100%; border-collapse: collapse;">
+      <thead>
+        <tr style="background-color: #f4f4f4;">
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Year</th>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Details</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><b>2019</b></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">처음 C언어로 프로그래밍을 시작  &nbsp;&nbsp;&nbsp;&nbsp; [교재: 누구나 쉽게 즐기는 C언어 콘서트(누구나 쉽게 즐기는) 천인국]</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><b>2021</b></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Python 중심으로 객체지향 프로그래밍 학습 &nbsp;&nbsp;&nbsp;&nbsp; [교재: 파이썬 Express (천인국 지음, 생능출판)]</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><b>2023-1</b></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">Android Studio를 이용한 모바일 앱 개발 경험, AI 개론 공부(CNN 기반의 딥러닝 모델) &nbsp;&nbsp;&nbsp;&nbsp; [교재: 그림으로 쉽게 설명하는 안드로이드 프로그래밍(개정6판), 기계 학습 / 오일석 / 한빛아카데미]</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><b>2023-2</b></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">영상정보처리 &nbsp;&nbsp;&nbsp;&nbsp; [교재: OpenCV-Python으로 배우는 영상 처리 및 응용]</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><b>2024</b></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 (HTML, Tailwind CSS, React, Python 데이터 처리분석 ,DB SQL , JSP, Spring Boot, Java , 머신러닝, 텐서플로 등)</td>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #ddd;"><b>2025 (현재)</b></td>
+          <td style="padding: 10px; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정 (Unreal Engine과 C++로 FPS 게임 프로젝트)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge" alt="Apache Tomcat">
