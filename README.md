@@ -1,5 +1,4 @@
 
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=jgtaeeun's%20github&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
@@ -42,11 +41,10 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgtaeeun&layout=compact&bg_color=180,edf3ef,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=white)
-    
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Thanks%20for%20visiting!&animation=twinkling&fontColor=ffffff&fontSize=70)
 
+ 
 <!--
 **jgtaeeun/jgtaeeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
