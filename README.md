@@ -97,6 +97,17 @@
               <img src="7.png" width="2000" />
             </td>
         </tr>
+             <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">기업체로부터 제공받은 데이터로 구현해야할 과제가 차량번호판 인식률 높이기 및 다중차량인식임</td>
+            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.공공데이터포털의 병원정보 API와 CSV 파일을 활용하여 요양병원 정보를 정제하고, MySQL과 연동해 백엔드 DB를 구축<br><br>2. Spring Boot 기반 REST API와 React 프론트를 연동해 병원검색, 로그인/회원가입, 찜하기 등 핵심 기능 구현.
+            </td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+              <img src="8.png" width="2000" /><br><br>
+              <img src="9.png" width="2000" /><br><br>
+              <img src="7.png" width="2000" />
+            </td>
+        </tr>
       </tbody>
     </table>
   </div>
