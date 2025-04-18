@@ -81,9 +81,9 @@
         기능(Java)은 구글지도 API, 마커, 인텐트, SQLite DB, 파일 저장 등을 이용해 구현
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
-              <img src="8.png" width="1000" /><br><br>
-              <img src="9.png" width="1000" /><br><br>
-              <img src="7.png" width="1000" />
+              <img src="0.png" width="2000" /><br><br>
+              <img src="3.png" width="2000" /><br><br>
+              <img src="4.png" width="2000" />
             </td>
         </tr>
         <tr>
@@ -92,9 +92,9 @@
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.공공데이터포털의 병원정보 API와 CSV 파일을 활용하여 요양병원 정보를 정제하고, MySQL과 연동해 백엔드 DB를 구축<br><br>2. Spring Boot 기반 REST API와 React 프론트를 연동해 병원검색, 로그인/회원가입, 찜하기 등 핵심 기능 구현.
             </td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
-              <img src="8.png" width="1000" /><br><br>
-              <img src="9.png" width="1000" /><br><br>
-              <img src="7.png" width="1000" />
+              <img src="8.png" width="2000" /><br><br>
+              <img src="9.png" width="2000" /><br><br>
+              <img src="7.png" width="2000" />
             </td>
         </tr>
       </tbody>
