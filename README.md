@@ -29,7 +29,7 @@
              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-PC 카메라 영상의 배경을 임의의 다른 배경으로 교체<br>-Implementing one of face recognition algorithms</td>
         </tr>
         <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>상반기</th>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>(1)</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Android Studio를 이용한 모바일 앱 개발 경험<br>AI 개론 공부</td>
              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">안드로이드 앱 개발 (Java)<br>Convolutional Neural Networks (CNN)<br>[교재: 그림으로 쉽게 설명하는 안드로이드 프로그래밍(개정6판), 기계 학습 / 오일석 / 한빛아카데미]
                 <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-전통시장 홍보 및 이용자 증가 위한 시스템 구현- 전통시장 지도 앱</td>
@@ -38,7 +38,7 @@
 </td>
         </tr>
         <tr>
-          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>하반기</th>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023<br>(2)</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상정보처리</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상 처리 알고리즘<br>[교재: OpenCV-Python으로 배우는 영상 처리 및 응용]</td>
         </tr>
