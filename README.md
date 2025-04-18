@@ -12,30 +12,30 @@
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Details</th>
         </tr>
       </thead>
-      <tbody>
-        <tr>
-          <td style="padding: 10px; border: 1px solid #ddd;"><b>2019</b></td>
-          <td style="padding: 10px; border: 1px solid #ddd;">처음 C언어로 프로그래밍을 시작  &nbsp;&nbsp;&nbsp;&nbsp; [교재: 누구나 쉽게 즐기는 C언어 콘서트(누구나 쉽게 즐기는) 천인국]</td>
+        <tbody>
+         <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2019</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">처음 C언어로 프로그래밍을 시작</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #ddd;"><b>2021</b></td>
-          <td style="padding: 10px; border: 1px solid #ddd;">Python 중심으로 객체지향 프로그래밍 학습 &nbsp;&nbsp;&nbsp;&nbsp; [교재: 파이썬 Express (천인국 지음, 생능출판)]</td>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2021</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Python 중심으로 객체지향 프로그래밍 학습</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #ddd;"><b>2023-1</b></td>
-          <td style="padding: 10px; border: 1px solid #ddd;">Android Studio를 이용한 모바일 앱 개발 경험, AI 개론 공부(CNN 기반의 딥러닝 모델) &nbsp;&nbsp;&nbsp;&nbsp; [교재: 그림으로 쉽게 설명하는 안드로이드 프로그래밍(개정6판), 기계 학습 / 오일석 / 한빛아카데미]</td>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023-1</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Android Studio를 이용한 모바일 앱 개발 경험, AI 개론 공부(CNN 기반의 딥러닝 모델)</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #ddd;"><b>2023-2</b></td>
-          <td style="padding: 10px; border: 1px solid #ddd;">영상정보처리 &nbsp;&nbsp;&nbsp;&nbsp; [교재: OpenCV-Python으로 배우는 영상 처리 및 응용]</td>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2023-2</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">영상정보처리</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #ddd;"><b>2024</b></td>
-          <td style="padding: 10px; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 (HTML, Tailwind CSS, React, Python 데이터 처리분석 ,DB SQL , JSP, Spring Boot, Java , 머신러닝, 텐서플로 등)</td>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2024</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정</td>
         </tr>
         <tr>
-          <td style="padding: 10px; border: 1px solid #ddd;"><b>2025 (현재)</b></td>
-          <td style="padding: 10px; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정 (Unreal Engine과 C++로 FPS 게임 프로젝트)</td>
+          <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
         </tr>
       </tbody>
     </table>
