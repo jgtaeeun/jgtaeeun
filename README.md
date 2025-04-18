@@ -80,15 +80,22 @@
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">화면 구성(XML)은 프래그먼트, 리스트뷰 등을 사용해서 만들었고,<br><br>
         기능(Java)은 구글지도 API, 마커, 인텐트, SQLite DB, 파일 저장 등을 이용해 구현
             </td>
-              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">이미지넣기</td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+              <img src="8.png" width="1000" /><br><br>
+              <img src="9.png" width="1000" /><br><br>
+              <img src="7.png" width="1000" />
+            </td>
         </tr>
         <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.공공데이터포털의 병원정보 API와 CSV 파일을 활용하여 요양병원 정보를 정제하고, MySQL과 연동해 백엔드 DB를 구축<br><br>2. Spring Boot 기반 REST API와 React 프론트를 연동해 병원검색, 로그인/회원가입, 찜하기 등 핵심 기능 구현.
             </td>
-             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">![image](https://github.com/user-attachments/assets/c9ea6b2c-7e88-4b52-a9c6-4d92ac70ee12)
-</td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+              <img src="8.png" width="1000" /><br><br>
+              <img src="9.png" width="1000" /><br><br>
+              <img src="7.png" width="1000" />
+            </td>
         </tr>
       </tbody>
     </table>
