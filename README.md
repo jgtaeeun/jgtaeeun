@@ -83,7 +83,7 @@
         </tr>
         <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">Python 중심으로 객체지향 프로그래밍 학습</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">객체지향 개념 (클래스, 객체, 상속, 다형성 등) 학습<br>[교재: 파이썬 Express (천인국 지음, 생능출판)]
             </td>
              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-PC 카메라 영상의 배경을 임의의 다른 배경으로 교체<br>-Implementing one of face recognition algorithms</td>
