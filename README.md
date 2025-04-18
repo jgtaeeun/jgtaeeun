@@ -103,9 +103,9 @@
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1. 프로젝트는 이미지 업로드, DB 수정, 차량 번호판 인식 및 처리, 관리자 페이지, 통계 기능을 구현하는 작업으로 구성됨.<br><br>2.프론트엔드와 백엔드 간의 이미지 및 데이터 송수신, 웹소켓 통합, JWT 인증 및 권한 관리 등 다양한 기능을 포함.<br><br>3.관리자는 회원 승인, 게시판 관리, 통계 조회 및 이미지 처리와 관련된 기능을 수행하며, 전체 시스템의 안정성 향상 및 예외 처리도 중요하게 다룸.
             </td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
-              <img src="8.png" width="2000" /><br><br>
-              <img src="9.png" width="2000" /><br><br>
-              <img src="7.png" width="2000" />
+              <img src="실시간번호판기록.png" width="2000" /><br><br>
+              <img src="차량번호판수정.png" width="2000" /><br><br>
+              <img src="65.png" width="2000" />
             </td>
         </tr>
       </tbody>
