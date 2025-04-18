@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jgtaeeun&fontSize=90)
+![mid-banner](https://capsule-render.vercel.app/api?type=rect&text=Hello,%20World!&fontAlign=50&fontSize=40&desc=Welcome%20to%20my%20GitHub&descAlign=50&descAlignY=70&theme=tokyonight)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=white)
 
 <!--
