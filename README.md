@@ -46,6 +46,7 @@
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2024</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정</td>
         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">프론트엔드(HTML, Tailwind CSS, React)<br>백엔드(JSP, Spring Boot, Java)<br>데이터분석(Python 데이터 처리분석 ,DB SQL, 머신러닝, 텐서플로)</td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-요양병원 정보안내 웹서비스<br>-차량객체 추출 기반 차량번호판 추출 및 예측 서비스</td>
         </tr>
         <tr>
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
