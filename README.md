@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jgtaeeun&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=white)
 
 <!--
 **jgtaeeun/jgtaeeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
