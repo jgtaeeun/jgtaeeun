@@ -99,7 +99,7 @@
         </tr>
              <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">기업체로부터 제공받은 데이터로 구현해야할 과제가 차량번호판 인식률 높이기 및 다중차량인식임</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.차량 번호판 인식<br><br>2.번호판 회손 추측<br><br>3.다수 차량 인식<br><br>4.웹 기반 관리 대시보드</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1. 프로젝트는 이미지 업로드, DB 수정, 차량 번호판 인식 및 처리, 관리자 페이지, 통계 기능을 구현하는 작업으로 구성됨.<br><br>2.프론트엔드와 백엔드 간의 이미지 및 데이터 송수신, 웹소켓 통합, JWT 인증 및 권한 관리 등 다양한 기능을 포함.<br><br>3.관리자는 회원 승인, 게시판 관리, 통계 조회 및 이미지 처리와 관련된 기능을 수행하며, 전체 시스템의 안정성 향상 및 예외 처리도 중요하게 다룸.
             </td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
