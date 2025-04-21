@@ -169,7 +169,6 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           <br/></div>
     </div>
-   
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
