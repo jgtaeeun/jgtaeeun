@@ -87,7 +87,7 @@
             </td>
         </tr>
         <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스 <br><a href="https://drive.google.com/file/d/1KBoFKlI5Y6o9ZepNKIoPyFJoU5tRxlN3/view?usp=sharing" target="_blank">
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스 <br><a href="https://drive.google.com/file/d/1Wp_CQEwWxYOtuprSBjCQcgX0ubQy1ZNw/view?usp=sharing" target="_blank">
    구현영상
   </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.</td>
@@ -100,7 +100,7 @@
             </td>
         </tr>
              <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스 <br> <a href="https://drive.google.com/file/d/1Wp_CQEwWxYOtuprSBjCQcgX0ubQy1ZNw/view?usp=sharing" target="_blank">
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스 <br> <a href="https://drive.google.com/file/d/1KBoFKlI5Y6o9ZepNKIoPyFJoU5tRxlN3/view?usp=sharing" target="_blank">
    구현영상
   </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.차량 번호판 인식<br><br>2.번호판 회손 추측<br><br>3.다수 차량 인식<br><br>4.웹 기반 관리 대시보드</td>
