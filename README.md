@@ -141,7 +141,9 @@
         </td>
         </tr>
              <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 1</th>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 1<br> <a href="https://drive.google.com/file/d/12pIt5QHBT2K_qVUBSD5OVaU0Xwj9ePLj/view?usp=sharing"   target="_blank">
+               구현영상
+          </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">학습용 문제풀이 Windows Forms 애플리케이션<br><br>(iot_csharp_winapp_2025/toyProject)</td>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://github.com/jgtaeeun/iot_csharp_wpf_2025">iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음</a>
               <br><br> 1. 사용자가 특정 개수의 기출문제를 선택하여 풀고, 해설을 확인하며 학습할 수 있도록 설계된 Windows Forms 기반 퀴즈 학습 프로그램<br><br>2.
@@ -153,7 +155,9 @@
             </td>
         </tr>
               <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 2</th>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 2<br> <a href="https://drive.google.com/file/d/16GFoTH3pEGMYJ5_stcZfOmR__ak3eVak/view?usp=sharing"  target="_blank">
+               구현영상
+          </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스포츠 안내 키오스크 WPF-UI 애플리케이션<br><br>(iot_csharp_winapp_2025/day63)</td>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://github.com/jgtaeeun/iot_csharp_wpf_2025">iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음</a>
               <br><br> 1. 이 프로젝트는 한화 이글스 팬을 위한 데스크탑 애플리케이션으로, 경기 정보, 선수 정보, 티켓 예매, 주요 시설 안내 등 다양한 구단 관련 정보를 시각적으로 제공하는 WPF 기반 GUI 프로그램<br><br>2.
