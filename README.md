@@ -90,7 +90,7 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스 <br><a href="https://drive.google.com/file/d/1Wp_CQEwWxYOtuprSBjCQcgX0ubQy1ZNw/view?usp=sharing" target="_blank">
    구현영상
   </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.<br><br>(project1)</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.공공데이터포털의 병원정보 API와 CSV 파일을 활용하여 요양병원 정보를 정제하고, MySQL과 연동해 백엔드 DB를 구축<br><br>2. Spring Boot 기반 REST API와 React 프론트를 연동해 병원검색, 로그인/회원가입, 찜하기 등 핵심 기능 구현.
             </td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
@@ -103,7 +103,7 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스 <br> <a href="https://drive.google.com/file/d/1KBoFKlI5Y6o9ZepNKIoPyFJoU5tRxlN3/view?usp=sharing" target="_blank">
    구현영상
   </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.차량 번호판 인식<br><br>2.번호판 회손 추측<br><br>3.다수 차량 인식<br><br>4.웹 기반 관리 대시보드</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.차량 번호판 인식<br><br>2.번호판 회손 추측<br><br>3.다수 차량 인식<br><br>4.웹 기반 관리 대시보드<br><br>(AI_Project)</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1. 프로젝트는 이미지 업로드, DB 수정, 차량 번호판 인식 및 처리, 관리자 페이지, 통계 기능을 구현하는 작업으로 구성됨.<br><br>2.프론트엔드와 백엔드 간의 이미지 및 데이터 송수신, 웹소켓 통합, JWT 인증 및 권한 관리 등 다양한 기능을 포함.<br><br>3.관리자는 회원 승인, 게시판 관리, 통계 조회 및 이미지 처리와 관련된 기능을 수행하며, 전체 시스템의 안정성 향상 및 예외 처리도 중요하게 다룸.
             </td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
@@ -116,7 +116,7 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Unreal Engine과 C++로 FPS 게임 프로젝트 <br> <a href="https://drive.google.com/file/d/1eFvqZVRrgGj3uNPfm0lSrtyFuPtQ_tSV/view?usp=sharing"                     target="_blank">
                구현영상
           </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">역할 기반 팀플레이 중심의 FPS 게임을 통해 언리얼 C++ 실전 개발 역량 강화 및 협동 전술 메커니즘 구현</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">역할 기반 팀플레이 중심의 FPS 게임을 통해 언리얼 C++ 실전 개발 역량 강화 및 협동 전술 메커니즘 구현<br><br>(iot_1_project_record)</td>
             <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.FPS 캐릭터 기본 기능(이동, 점프, 발사, 조준)과 대시, 방벽, 힐러 스킬 시스템 구현<br><br> 2.팀 시스템과 캐릭터 별 특성(딜러 대시, 탱커 방벽, 힐러 힐링)까지 연동하여 상호작용 가능하게 구성 <br><br>3.시각적 피드백(이펙트, 머티리얼 변화), 밸런스 조절(MaxHealth, 데미지), AI 팀 구분까지 테스트 <br><br>4.AICharacter의 tank,deal,healCharacter에도 기술 적용 및 테스트<br><br><a href="https://drive.google.com/file/d/1Rq3khdSSFgkPmzmGUHBYRDvbML8c0Mn5/view?usp=sharing"                     target="_blank">
                힐러스킬 구현영상
           </a><br><br><a href="https://drive.google.com/file/d/1G2HuKJOxIjsprWVlX3ixULvo3slZhge5/view?usp=sharing"                     target="_blank">
