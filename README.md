@@ -52,7 +52,7 @@
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter), 언어(C, C++,C#) </td>
-         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트</td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트<br>-WinApp 미니 프로젝트<br>-Wpf미니 프로젝트</td>
         </tr>
       </tbody>
     </table>
@@ -87,7 +87,7 @@
             </td>
         </tr>
         <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스 <br><a href="https://drive.google.com/file/d/1KBoFKlI5Y6o9ZepNKIoPyFJoU5tRxlN3/view?usp=sharing" target="_blank">
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">요양병원 정보안내 웹서비스 <br><a href="https://drive.google.com/file/d/1Wp_CQEwWxYOtuprSBjCQcgX0ubQy1ZNw/view?usp=sharing" target="_blank">
    구현영상
   </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">요양병원은 일반 병원과 달리 필터 조건으로 찾을 수 있는 사이트가 부족해, 효율적인 검색을 위해 직접 제작하게 되었다.</td>
@@ -100,7 +100,7 @@
             </td>
         </tr>
              <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스 <br> <a href="https://drive.google.com/file/d/1Wp_CQEwWxYOtuprSBjCQcgX0ubQy1ZNw/view?usp=sharing" target="_blank">
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">차량객체 추출 기반 차량번호판 추출 및 예측 서비스 <br> <a href="https://drive.google.com/file/d/1KBoFKlI5Y6o9ZepNKIoPyFJoU5tRxlN3/view?usp=sharing" target="_blank">
    구현영상
   </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.차량 번호판 인식<br><br>2.번호판 회손 추측<br><br>3.다수 차량 인식<br><br>4.웹 기반 관리 대시보드</td>
@@ -140,6 +140,17 @@
             </figure>
         </td>
         </tr>
+             <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 1</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">학습용 문제풀이 Windows Forms 애플리케이션<br><br>(iot_csharp_winapp_2025/toyProject)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음 <br><br> 1. 사용자가 특정 개수의 기출문제를 선택하여 풀고, 해설을 확인하며 학습할 수 있도록 설계된 Windows Forms 기반 퀴즈 학습         프로그램<br><br>2.
+            각 문제는 4지 선다형 객관식이며, 타이머를 통해 제한 시간 내에 문제를 풀 수 있도록 설계<br><br>
+            </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+              <img src="퀴즈앱첫화면.png" alt="퀴즈앱첫화면" width="1000">
+             <img src="퀴즈앱진행상황.png" alt="퀴즈앱진행상황" width="1000">
+            </td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -169,10 +180,6 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:jas49258667@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jas49258667@gmail.com"> </a>
-          </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
