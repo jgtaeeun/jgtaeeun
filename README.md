@@ -52,7 +52,7 @@
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
            <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter), 언어(C, C++,C#) </td>
-         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트</td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트<br>-WinApp 미니 프로젝트<br>-Wpf미니 프로젝트</td>
         </tr>
       </tbody>
     </table>
@@ -139,6 +139,20 @@
               <figcaption>탱커가 궁극기를 써서 우리팀 모두에게 버블막 씌워서 데미지 절반 입게 하는 모습</figcaption>
             </figure>
         </td>
+        </tr>
+             <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">전통시장 홍보 및 이용자 증가 위한 시스템 구현- 전통시장 지도 앱</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> 1.전통시장의 낮은 인지도와 제한적인 연령층 이용 문제를 해결하기 위해 지도 기반의 안내 시스템 필요성 제기<br><br>2.
+            기존 플랫폼(배달의민족, 네이버/구글 지도) 분석을 통해 정보 부족 및 거리뷰 미지원 지역 등 문제점을 도출<br><br>3.
+            숨겨진 가게와 리뉴얼 대상 정보를 수집해 지도에 구역별로 시각화, 첫 방문자도 쉽게 이용 가능한 안내 서비스 구현.</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">화면 구성(XML)은 프래그먼트, 리스트뷰 등을 사용해서 만들었고,<br><br>
+        기능(Java)은 구글지도 API, 마커, 인텐트, SQLite DB, 파일 저장 등을 이용해 구현
+            </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+              <img src="0.png" width="2000" /><br><br>
+              <img src="3.png" width="2000" /><br><br>
+              <img src="4.png" width="2000" />
+            </td>
         </tr>
       </tbody>
     </table>
