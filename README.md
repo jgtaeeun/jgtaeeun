@@ -143,13 +143,27 @@
              <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 1</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">학습용 문제풀이 Windows Forms 애플리케이션<br><br>(iot_csharp_winapp_2025/toyProject)</td>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="iot_csharp_winapp_2025/README.MD">iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음</a>
-              <br><br> 1. 사용자가 특정 개수의 기출문제를 선택하여 풀고, 해설을 확인하며 학습할 수 있도록 설계된 Windows Forms 기반 퀴즈 학습         프로그램<br><br>2.
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://github.com/jgtaeeun/iot_csharp_wpf_2025">iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음</a>
+              <br><br> 1. 사용자가 특정 개수의 기출문제를 선택하여 풀고, 해설을 확인하며 학습할 수 있도록 설계된 Windows Forms 기반 퀴즈 학습 프로그램<br><br>2.
             각 문제는 4지 선다형 객관식이며, 타이머를 통해 제한 시간 내에 문제를 풀 수 있도록 설계<br><br>
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
               <img src="퀴즈앱첫화면.png" alt="퀴즈앱첫화면" width="1000">
              <img src="퀴즈앱진행상황.png" alt="퀴즈앱진행상황" width="1000">
+            </td>
+        </tr>
+              <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 2</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스포츠 안내 키오스크 WPF-UI 애플리케이션<br><br>(iot_csharp_winapp_2025/day63)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://github.com/jgtaeeun/iot_csharp_wpf_2025">iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음</a>
+              <br><br> 1. 이 프로젝트는 한화 이글스 팬을 위한 데스크탑 애플리케이션으로, 경기 정보, 선수 정보, 티켓 예매, 주요 시설 안내 등 다양한 구단 관련 정보를 시각적으로 제공하는 WPF 기반 GUI 프로그램<br><br>2.
+           사용자는 이 앱을 통해 날짜별 경기 일정 확인, 선수들의 상세 통계 열람, 티켓 정보 확인 등을 할 수 있습니다.<br><br>
+            </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+                <img src="경기정보.png" alt="경기정보" width="1000">
+               <img src="팀이글스.png" alt="선수정보" width="1000">
+               <img src="티켓예매.png" alt="공식예매사이트 링크" width="1000">
+               <img src="주요시설.png" alt="경기장위치 및 주변 지도" width="1000">
             </td>
         </tr>
       </tbody>
