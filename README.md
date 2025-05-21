@@ -141,17 +141,14 @@
         </td>
         </tr>
              <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">전통시장 홍보 및 이용자 증가 위한 시스템 구현- 전통시장 지도 앱</th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> 1.전통시장의 낮은 인지도와 제한적인 연령층 이용 문제를 해결하기 위해 지도 기반의 안내 시스템 필요성 제기<br><br>2.
-            기존 플랫폼(배달의민족, 네이버/구글 지도) 분석을 통해 정보 부족 및 거리뷰 미지원 지역 등 문제점을 도출<br><br>3.
-            숨겨진 가게와 리뉴얼 대상 정보를 수집해 지도에 구역별로 시각화, 첫 방문자도 쉽게 이용 가능한 안내 서비스 구현.</td>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">화면 구성(XML)은 프래그먼트, 리스트뷰 등을 사용해서 만들었고,<br><br>
-        기능(Java)은 구글지도 API, 마커, 인텐트, SQLite DB, 파일 저장 등을 이용해 구현
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">윈앱 미니프로젝트 1</th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">학습용 문제풀이 Windows Forms 애플리케이션<br><br>(iot_csharp_winapp_2025/toyProject)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음 <br><br> 1. 사용자가 특정 개수의 기출문제를 선택하여 풀고, 해설을 확인하며 학습할 수 있도록 설계된 Windows Forms 기반 퀴즈 학습         프로그램<br><br>2.
+            각 문제는 4지 선다형 객관식이며, 타이머를 통해 제한 시간 내에 문제를 풀 수 있도록 설계<br><br>
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
-              <img src="0.png" width="2000" /><br><br>
-              <img src="3.png" width="2000" /><br><br>
-              <img src="4.png" width="2000" />
+              <img src="퀴즈앱첫화면.png" alt="퀴즈앱첫화면" width="1000">
+             <img src="퀴즈앱진행상황.png" alt="퀴즈앱진행상황" width="1000">
             </td>
         </tr>
       </tbody>
