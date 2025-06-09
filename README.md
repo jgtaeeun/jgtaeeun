@@ -171,7 +171,7 @@
             </td>
         </tr>
               <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">WPF API 미니프로젝트<br> <a href="https://drive.google.com/file/d/16GFoTH3pEGMYJ5_stcZfOmR__ak3eVak/view?usp=sharing"  target="_blank">
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">WPF API 미니프로젝트<br> <a href="https://drive.google.com/file/d/1z4v6NedTAOL8ILSDWIJjPcP4xP6PmniG/view?usp=sharing"  target="_blank">
                구현영상
           </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">국가문화유산 탐색<br><br>(iot_wpf_2025-api-/miniproject)</td>
