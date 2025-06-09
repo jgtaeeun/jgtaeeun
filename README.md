@@ -174,8 +174,8 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">WPF API 미니프로젝트<br> <a href="https://drive.google.com/file/d/16GFoTH3pEGMYJ5_stcZfOmR__ak3eVak/view?usp=sharing"  target="_blank">
                구현영상
           </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">국가문화유산 탐색<br><br>(iot_wpf_2025-api\miniproject)</td>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://github.com/jgtaeeun/iot_csharp_wpf_2025">iot_csharp_winapp_2025/README.MD에 기능 및 화면별 설명 있음</a>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">국가문화유산 탐색<br><br>(iot_wpf_2025-api-/miniproject)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"><a href="https://github.com/jgtaeeun/iot_csharp_wpf_2025">iot_csharp_wpf_2025/README.MD에 기능 및 화면별 설명 있음</a>
               <br><br> 1. 사용자가 매일 무작위로 선정된 하나의 국가문화유산을 탐색하고, 해당 유산의 상세 정보, 지정일자, 시대, 지역 등의 정보를 확인할 수 있습니다.<br><br>2.
            지역 필터링 기능, 언어 번역 기능, 국가유산 포털 연동 등 다양한 부가 기능을 통해 문화유산 정보의 접근성과 활용성을 높이고자 합니다.<br><br>
             </td>
