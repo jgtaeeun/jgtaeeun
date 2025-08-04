@@ -190,7 +190,7 @@
                구현영상
           </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스마트 커피 머신 모니터링 및 제어 시스템<br><br>커피 추출은 온도와 습도의 영향을 크게 받기 때문에, 이를 고려한 추출 시간 조절로 맛을 향상시킬 수 있다. <br><br>(iot_raspberry_pi/스마트 커피 머신 모니터링 및 제어 시스템_제갈태은.hwpx)</td>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> -하드웨어 <br> 1.온습도 센서<br> 2.릴레이 모듈<br> 3. LED  <br> <br> -웹 인터페이스 기능 <br> 1. 커피 머신 상태 대시보드<br> 2.자동 커피 추출 버튼<br><br>3. 추출시간 설정<br> 4.알림 시스템 
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> -하드웨어 <br> 1.온습도 센서<br> 2.릴레이 모듈<br> 3. LED  <br> <br> -웹 인터페이스 기능 <br> 1. 커피 머신 상태 대시보드<br> 2.자동 커피 추출 버튼<br>3. 추출시간 설정<br> 4.알림 시스템 
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
                 <img src="image01.png" alt="status 1 대기" width="1000">
