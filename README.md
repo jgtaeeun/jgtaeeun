@@ -189,10 +189,9 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">IoT 미니 프로젝트<br> <a href=""  target="_blank">
                구현영상
           </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스마트 커피 머신 모니터링 및 제어 시스템<br><br>(iot_raspberry_pi)</td>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
-             1. 사용자가 매일 무작위로 선정된 하나의 국가문화유산을 탐색하고, 해당 유산의 상세 정보, 지정일자, 시대, 지역 등의 정보를 확인할 수 있습니다.<br><br>2.
-           지역 필터링 기능, 언어 번역 기능, 국가유산 포털 연동 등 다양한 부가 기능을 통해 문화유산 정보의 접근성과 활용성을 높이고자 합니다.<br><br>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스마트 커피 머신 모니터링 및 제어 시스템<br><br>커피 추출은 온도와 습도의 영향을 크게 받기 때문에, 이를 고려한 추출 시간 조절로 맛을 향상시킬 수 있다. <br><br>(iot_raspberry_pi)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> -하드웨어 <br> 1.온습도 센서-온도,습도에 따른 추출시간 추천 <br> 2.릴레이 모듈-커피 머신의 전원을 켜고 끌 수 있는 기능<br> 3. LED -커피 머신이 준비되었거나 커피 추출이 완료되었을 때 상태를 나타내는 색상 변화 <br> <br> -웹 인터페이스 기능 1. 커피 머신 상태 대시보드-커피 머신의 현재 온도와 상태(예: "준비 완료", "작동 중", "대기 중")를 실시간으로 표시<br> 2.자동 커피 추출 버튼-웹에서 버튼을 클릭하여 커피 추출을 시작하거나 중지할 수 있는 기능<br>3. 추출시간 설정-커피 머신의 추출시간을  수동으로 설정할 수 있는 inputbox <br> 4.알림 시스템-커피 추출이 진행 중일 때 그 상태를 시각적으로 알 수 있도록 진행 바나 색상 변화를 제공합니다. 커피가 다 되었을 때 부저를 울리고, 웹 페이지에서 "커피 추출 완료!"와 같은 메시지를 띄울 수 있습니다.
+       
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
                 <img src="한국어TODAY.png" alt="랜덤검색한국어" width="1000">
