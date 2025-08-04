@@ -51,7 +51,7 @@
         <tr>
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
-           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter), 언어(C, C++,C#) </td>
+           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter,WinForms,WebApp, ASP.NET), 언어(C, C++,C#),  </td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트<br>-WinApp 미니 프로젝트<br>-Wpf미니 프로젝트</td>
         </tr>
       </tbody>
