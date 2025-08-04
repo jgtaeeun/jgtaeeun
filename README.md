@@ -186,7 +186,7 @@
             </td>
         </tr>
           <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">IoT 미니 프로젝트<br> <a href=""  target="_blank">
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">IoT 미니 프로젝트<br> <a href="https://drive.google.com/file/d/1z4v6NedTAOL8ILSDWIJjPcP4xP6PmniG/view?usp=sharing"  target="_blank">
                구현영상
           </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스마트 커피 머신 모니터링 및 제어 시스템<br><br>커피 추출은 온도와 습도의 영향을 크게 받기 때문에, 이를 고려한 추출 시간 조절로 맛을 향상시킬 수 있다. <br><br>(iot_raspberry_pi/스마트 커피 머신 모니터링 및 제어 시스템_제갈태은.hwpx)</td>
