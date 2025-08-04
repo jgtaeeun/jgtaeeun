@@ -188,7 +188,7 @@
              <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">리눅스 기반 미니 프로젝트
           </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">파일입출력을 통한 회원가입 및 로그인<br><br>(iot_raspberry_pi/코딩테스트(리눅스,c,파일입출력)_제갈태은.hwpx)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">파일입출력을 통한 회원가입 및 로그인<br><br>(iot_raspberry_pi/코딩테스트(리눅스,c,파일입출력)_제갈태은.hwp)</td>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.회원가입<br>-user.txt에 저장<br><br> 2.로그인<br><br> 3.입력 유효성 검사 <br>-아이디 및 비밀번호의 최대 길이(20자), 공백 유무, 비어 있는 입력 등 <br><br> 4.비밀번호 마스킹<br>-비밀번호 입력 시 화면에 *로 표시<br><br>5. 비밀번호 확인<br>-회원가입 시 두 번의 비밀번호 입력을 통해 일치 여부를 확인
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
@@ -200,7 +200,7 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">IoT 미니 프로젝트<br> <a href="https://drive.google.com/file/d/1z4v6NedTAOL8ILSDWIJjPcP4xP6PmniG/view?usp=sharing"  target="_blank">
                구현영상
           </a></th>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스마트 커피 머신 모니터링 및 제어 시스템<br><br>커피 추출은 온도와 습도의 영향을 크게 받기 때문에, 이를 고려한 추출 시간 조절로 맛을 향상시킬 수 있다. <br><br>(iot_raspberry_pi/스마트 커피 머신 모니터링 및 제어 시스템_제갈태은.hwpx)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">스마트 커피 머신 모니터링 및 제어 시스템<br><br>커피 추출은 온도와 습도의 영향을 크게 받기 때문에, 이를 고려한 추출 시간 조절로 맛을 향상시킬 수 있다. <br><br>(iot_raspberry_pi/스마트 커피 머신 모니터링 및 제어 시스템_제갈태은.hwp)</td>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> -하드웨어 <br> 1.온습도 센서<br> 2.릴레이 모듈<br> 3. LED  <br> <br> -웹 인터페이스 기능 <br> 1. 커피 머신 상태 대시보드<br> 2.자동 커피 추출 버튼<br>3. 추출시간 설정<br> 4.알림 시스템 
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
