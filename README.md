@@ -186,8 +186,7 @@
             </td>
         </tr>
              <tr>
-           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">리눅스 기반 미니 프로젝트<br> <a href="https://drive.google.com/file/d/1z4v6NedTAOL8ILSDWIJjPcP4xP6PmniG/view?usp=sharing"  target="_blank">
-               구현영상
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">리눅스 기반 미니 프로젝트
           </a></th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">파일입출력을 통한 회원가입 및 로그인<br><br>(iot_raspberry_pi/코딩테스트(리눅스,c,파일입출력)_제갈태은.hwpx)</td>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">1.회원가입<br>-user.txt에 저장<br><br> 2.로그인<br><br> 3.입력 유효성 검사 <br>-아이디 및 비밀번호의 최대 길이(20자), 공백 유무, 비어 있는 입력 등 <br><br> 4.비밀번호 마스킹<br>-비밀번호 입력 시 화면에 *로 표시<br><br>5. 비밀번호 확인<br>-회원가입 시 두 번의 비밀번호 입력을 통해 일치 여부를 확인
