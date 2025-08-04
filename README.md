@@ -45,14 +45,14 @@
         <tr>
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2024</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">[K-Digital 부산대 24-7회차] AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정</td>
-        <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">프론트엔드(HTML, Tailwind CSS, React)<br>백엔드(JSP, Spring Boot, Java)<br>데이터분석(Python 데이터 처리분석 ,DB SQL, 머신러닝, 텐서플로)</td>
+        <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">프론트엔드(HTML, Tailwind CSS, React)<br>백엔드(JSP, Spring Boot, Java)<br>데이터분석(Python 데이터 처리분석 ,DB SQL, 머신러닝, 텐서플로) <br>통신 방식(HTTP,WebSocket)</td>
          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-요양병원 정보안내 웹서비스<br>-차량객체 추출 기반 차량번호판 추출 및 예측 서비스</td>
         </tr>
         <tr>
           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">2025</th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">2025년 부경대 윈도우 플랫폼기반 IoT 시스템 개발자 과정</td>
-           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter,WinForms,WebApp, ASP.NET), 언어(C, C++,C#),  </td>
-         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트<br>-WinApp 미니 프로젝트<br>-Wpf미니 프로젝트</td>
+           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">GUI(tkinter,WinForms,WebApp, ASP.NET)<br>언어(C, C++,C#,Python)<br>통신 방식(MQTT,Socket (TCP),HTTP)<br> 운영체제(Raspberry Pi OS -Linux 기반) </td>
+         <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">-Unreal Engine과 C++로 FPS 게임 프로젝트<br>-WinApp 미니 프로젝트<br>-Wpf미니 프로젝트<br>-ASP.NET프로젝트<br>-MES프로젝트<br>-리눅스 기반 미니 프로젝트<br>-IoT 미니 프로젝트</td>
         </tr>
       </tbody>
     </table>
