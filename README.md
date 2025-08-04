@@ -196,6 +196,21 @@
                     <img src="회원가입비밀번호확인실패.png" alt="비밀번호재확인 실패로 인해 회원가입 실패" width="1000"> 
             </td>
         </tr>
+             <tr>
+           <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">MES프로젝트
+          </a></th>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">MES 공정관리 시뮬레이션<br><br>양품/불량품 선별 공정관리 모니터링 및 계획, 리포트<br><br>(iot_miniproject_2025/mes프로젝트 보고서.hwp)</td>
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> -WpfIotSimulatorApp <br> 1.MainView.xaml<br> -양품/불량품 선별 애니메이션<br> <br> -WpfMrpSimulatorApp <br> 1.SettingView <br>-공장 등록, 수정, 삭제 뷰<br><br><a href="https://drive.google.com/file/d/1z4v6NedTAOL8ILSDWIJjPcP4xP6PmniG/view?usp=sharing"  target="_blank">
+               구현영상<br><br>2.ScheduleView<br>-공정일정 등록, 수정, 삭제 뷰<br><a href="https://drive.google.com/file/d/1itAn_jvevVLBh3ULTb7110tw14g5t5Bb/view?usp=sharing"  target="_blank">
+               구현영상<br><br>3.MonitoringView<br>- 양품/불량품 선별 정보 조회<br><a href="https://drive.google.com/file/d/1itAn_jvevVLBh3ULTb7110tw14g5t5Bb/view?usp=sharing"  target="_blank">
+               구현영상
+            </td>
+              <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+                    <img src="mes1.png" alt="기본설정" width="1000">
+                    <img src="mes2.png" alt="공정일정" width="1000">
+                <img src="mes3.png" alt="모니터링" width="1000">
+            </td>
+        </tr>
           <tr>
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">IoT 미니 프로젝트<br> <a href="https://drive.google.com/file/d/1z4v6NedTAOL8ILSDWIJjPcP4xP6PmniG/view?usp=sharing"  target="_blank">
                구현영상
