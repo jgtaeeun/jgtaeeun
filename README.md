@@ -200,7 +200,7 @@
            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">ASP.NET프로젝트
           </th>
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">책 대출 웹서비스<br><br>(iot_webapp_2025/day80/Day07Study/DbFirstWebApp)</td>
-          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> >1.Book 뷰<br>-BOOK 목록 추가, 삭제, 수정, 상세정보<br><br> 2.Member 뷰<br>-회원정보 추가, 삭제, 수정, 상세정보<br> <br> 3.Div 뷰<br>-책 분류목록 추가, 삭제, 수정, 상세정보<br><br> 4. Rental 뷰<br>-대출반납 목록 추가, 삭제, 수정, 상세정보
+          <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> 1.Book 뷰<br>-BOOK 목록 추가, 삭제, 수정, 상세정보<br><br> 2.Member 뷰<br>-회원정보 추가, 삭제, 수정, 상세정보<br> <br> 3.Div 뷰<br>-책 분류목록 추가, 삭제, 수정, 상세정보<br><br> 4. Rental 뷰<br>-대출반납 목록 추가, 삭제, 수정, 상세정보
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
                     <img src="책분류.png" alt="책장르" width="1000">
