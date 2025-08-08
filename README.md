@@ -203,9 +203,10 @@
           <td style="padding: 10px; text-align: center; border: 1px solid #ddd;"> >1.Book 뷰<br>-BOOK 목록 추가, 삭제, 수정, 상세정보<br><br> 2.Member 뷰<br>-회원정보 추가, 삭제, 수정, 상세정보<br> <br> 3.Div 뷰<br>-책 분류목록 추가, 삭제, 수정, 상세정보<br><br> 4. Rental 뷰<br>-대출반납 목록 추가, 삭제, 수정, 상세정보
             </td>
               <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
-                    <img src="mes1.png" alt="기본설정" width="1000">
-                    <img src="mes2.png" alt="공정일정" width="1000">
-                <img src="mes3.png" alt="모니터링" width="1000">
+                    <img src="책분류.png" alt="책장르" width="1000">
+                    <img src="book리스트.png" alt="책목록" width="1000">
+                <img src="북대출1.png" alt="북대출신청폼" width="1000">
+                   <img src="북대출목록.png" alt="북대출내역" width="1000">
             </td>
         </tr>
              <tr>
